@@ -1,6 +1,4 @@
-# gas_sensor
-
-Welcome!
+# Welcome!
 
 Preview:
 ![preview](https://raw.githubusercontent.com/electro-nick/gas_sensor/master/images/IMG_1299.jpeg)
